@@ -1,0 +1,21 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message__userCard{
+    background-color: rgb(136, 191, 243)  !important;
+
+}
+
+.message__guestCard{
+    background-color: #e6e6e7 !important;
+}
